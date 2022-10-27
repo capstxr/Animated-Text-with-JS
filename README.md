@@ -5,4 +5,3 @@ I'm not going to spoonfeed the usage for these, please find out yourself.
 
 Contains:
 * JavaScript
-* HTML
